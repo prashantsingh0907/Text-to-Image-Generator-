@@ -1,4 +1,4 @@
-# Text-to-Image-Generator 
+# Text-to-Image-Generator Using Stable Diffusion v1.5
 🖼️ Text-to-Image Generator | Stable Diffusion v1.5
 A powerful and intuitive Text-to-Image Generator leveraging Stable Diffusion v1.5 to turn natural language prompts into vivid AI-generated visuals. Developed using both Streamlit for deployment and Gradio for GPU-powered inference via Google Colab.
 
