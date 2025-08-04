@@ -1,4 +1,4 @@
-# Text-to-Image-Generator Using Stable Diffusion v1.5
+# Text-to-Image-Generator 
 🖼️ Text-to-Image Generator | Stable Diffusion v1.5
 A powerful and intuitive Text-to-Image Generator leveraging Stable Diffusion v1.5 to turn natural language prompts into vivid AI-generated visuals. Developed using both Streamlit for deployment and Gradio for GPU-powered inference via Google Colab.
 
@@ -50,7 +50,7 @@ For faster generation using CUDA acceleration and Gradio interface.
 
 1. Open the app_colab.py in Colab by manually uploading the script.
 2. If not already imported, you can fetch it via raw URL:
-!wget https://raw.githubusercontent.com/PriyanshuRanjan44/Brainwave__Matrix__Intern/main/app_colab.py
+!wget https://raw.githubusercontent.com/Prashantsingh0907/Text-to-Image-Generator/main/app_colab.py
 3. Then simply run:
 !python app_colab.py
 4. Wait for model loading (~1 minute on GPU).
